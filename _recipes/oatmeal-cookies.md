@@ -1,8 +1,8 @@
 ---
 title: "Oatmeal Cookies"
 image: 
-  path: /images/oatmeal-cookies-lg.jpg
-  thumbnail: /images/oatmeal-cookies-400x200.jpg
+  path: /images/oatmeal-cookies.jpg
+  thumbnail: /images/oatmeal-cookies.jpg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
