@@ -1,9 +1,9 @@
 ---
 title: "Aranchini"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/aranchini.jpg
+  thumbnail: /images/aranchini.jpg
+  caption: "Photo from [Serious Eats](https://www.seriouseats.com/arancini-rice-balls-recipe)"
 tags:
   - italian
   - appertizer

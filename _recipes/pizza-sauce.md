@@ -1,9 +1,9 @@
 ---
 title: "Homemade Pizza Sauce"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/pizza-sauce.jpg
+  thumbnail: /images/pizza-sauce.jpg
+  caption: "Photo from [Serious Eats](https://www.seriouseats.com/new-york-style-pizza-sauce)"
 tags:
   - entree
   - american

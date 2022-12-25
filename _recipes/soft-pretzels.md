@@ -1,9 +1,9 @@
 ---
 title: "Soft Pretzles"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/soft-pretzels.jpg
+  thumbnail: /images/soft-pretzels.jpg
+  caption: "Photo from [Taste and Tell Blog](https://www.tasteandtellblog.com/soft-pretzel-recipe/)"
 tags:
   - sides
   - american

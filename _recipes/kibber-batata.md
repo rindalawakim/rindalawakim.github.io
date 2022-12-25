@@ -1,9 +1,9 @@
 ---
 title: "Kibber Batata"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/kibber-batata.jpg
+  thumbnail: /images/kibber-batata.jpg
+  caption: "Photo from [Freegan Kolektiva](https://freegankolektiva.wordpress.com/2011/12/30/873/)"
 tags:
   - lebanese
   - entree

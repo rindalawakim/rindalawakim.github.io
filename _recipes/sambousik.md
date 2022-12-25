@@ -1,9 +1,9 @@
 ---
 title: "Sambousik"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/sambousik.jpg
+  thumbnail: /images/sambousik.jpg
+  caption: "Photo from [Al Saray Restaurant](https://www.alsarayrestaurant.com/chef-recommendation/meat-sambousek/)"
 tags:
   - sides
   - lebanese

@@ -1,9 +1,9 @@
 ---
 title: "Banana Bread"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/banana-bread.jpg
+  thumbnail: /images/banana-bread.jpg
+  caption: "Photo from [Simply Recipes](https://www.simplyrecipes.com/recipes/banana_bread/)"
 tags:
   - dessert
   - american

@@ -1,9 +1,9 @@
 ---
 title: "Pickles"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/pickles.png
+  thumbnail: /images/pickles.png
+  caption: "Photo from [Rumi Spice](https://www.rumispice.com/blogs/recipes/middle-eastern-pickles)"
 tags:
   - sides
   - american

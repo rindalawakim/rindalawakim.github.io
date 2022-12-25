@@ -1,9 +1,9 @@
 ---
 title: "Chicken Breast Rub"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/chicken-breast-rub.jpg
+  thumbnail: /images/chicken-breast-rub.jpg
+  caption: "Photo from [Girls Can Grill](https://girlscangrill.com/recipe/grilled-chicken-breasts/)"
 tags:
   - american
   - rub

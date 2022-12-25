@@ -1,9 +1,9 @@
 ---
 title: "Mabrousheh"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/mabrousheh.jpg
+  thumbnail: /images/mabrousheh.jpg
+  caption: "Photo from [Manal Kattoula](https://www.pinterest.com/pin/563090759669150839/)"
 tags:
   - dessert
   - lebanese

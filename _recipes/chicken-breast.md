@@ -1,9 +1,9 @@
 ---
 title: "Chicken Breast"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/chicken-breast.jpg
+  thumbnail: /images/chicken-breast.jpg
+  caption: "Photo from [Nugget Market](https://www.nuggetmarket.com/recipes/1035/spice-rubbed-chicken-breast/)"
 tags:
   - american
   - entree

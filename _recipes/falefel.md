@@ -1,9 +1,9 @@
 ---
 title: "Falefel"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/falafel.jpg
+  thumbnail: /images/falafel.jpg
+  caption: "Photo from [The View From Great Island](https://theviewfromgreatisland.com/the-best-falafel/)"
 tags:
   - lebanese
   - entree

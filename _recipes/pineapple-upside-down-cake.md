@@ -1,9 +1,9 @@
 ---
 title: "Pineapple Upside Down Cake"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/pineapple-upside-down-cake.jpg
+  thumbnail: /images/pineapple-upside-down-cake.jpg
+  caption: "Photo from [Delish](https://www.delish.com/cooking/recipe-ideas/recipes/a53072/easy-pineapple-upside-down-cake-recipe/)"
 tags:
   - dessert
   - american

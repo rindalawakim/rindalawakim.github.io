@@ -1,9 +1,9 @@
 ---
 title: "Creamy Tomato and Basil Soup"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/creamy-tomato-basil-soup.jpg
+  thumbnail: /images/creamy-tomato-basil-soup.jpg
+  caption: "Photo from [Delish](https://www.delish.com/cooking/recipe-ideas/a44539/creamy-tomato-basil-soup-grilled-cheese-bites-recipe/)"
 tags:
   - soup
   - american

@@ -1,9 +1,9 @@
 ---
 title: "Shrimp Scampi"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/shrimp-scampi.jpg
+  thumbnail: /images/shrimp-scampi.jpg
+  caption: "Photo from [Tasting Table](https://www.tastingtable.com/650269/spicy-shrimp-scampi-recipe/)"
 tags:
   - italian
   - entree

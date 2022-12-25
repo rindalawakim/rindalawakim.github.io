@@ -1,9 +1,9 @@
 ---
 title: "Maamoul"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/maamoul.jpg
+  thumbnail: /images/maamoul.jpg
+  caption: "Photo from [Delish](https://www.delish.com/cooking/recipe-ideas/a41041620/maamoul-recipe/)"
 tags:
   - dessert
   - lebanese

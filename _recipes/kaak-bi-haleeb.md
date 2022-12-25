@@ -1,9 +1,9 @@
 ---
 title: "Kaak bi Haleeb"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/kaak-bi-haleeb.jpg
+  thumbnail: /images/kaak-bi-haleeb.jpg
+  caption: "Photo from [Winter Shine](https://www.youtube.com/watch?v=B3poyVKpLMI)"
 tags:
   - dessert
   - lebanese

@@ -1,9 +1,9 @@
 ---
 title: "Pesto Sauce"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/pesto-sauce.jpg
+  thumbnail: /images/pesto-sauce.jpg
+  caption: "Photo from [Simply Recipes](https://www.simplyrecipes.com/recipes/fresh_basil_pesto/)"
 tags:
   - sides
   - american

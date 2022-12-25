@@ -1,9 +1,9 @@
 ---
 title: "Sfoof"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/sfoof.jpg
+  thumbnail: /images/sfoof.jpg
+  caption: "Photo from [Make it Easy Recipes](https://www.youtube.com/watch?v=djb1YsIJnGE)"
 tags:
   - dessert
   - lebanese

@@ -1,9 +1,9 @@
 ---
 title: "Broccoli Soup"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/broccoli-soup.jpg
+  thumbnail: /images/broccoli-soup.jpg
+  caption: "Photo from [Half Your Plate](https://www.halfyourplate.ca/recipe/head-to-toe-broccoli-soup/)"
 tags:
   - soup
   - american

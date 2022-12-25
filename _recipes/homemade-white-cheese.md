@@ -1,9 +1,9 @@
 ---
 title: "Homemade White Cheese"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/homemade-white-cheese.jpg
+  thumbnail: /images/homemade-white-cheese.jpg
+  caption: "Photo from [In The Kitchen With Matt](https://www.inthekitchenwithmatt.com/homemade-mozzarella-cheese)"
 tags:
   - sides
   - american

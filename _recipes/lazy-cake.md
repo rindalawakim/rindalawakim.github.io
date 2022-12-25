@@ -1,9 +1,9 @@
 ---
 title: "Lazy Cake"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/lazy-cake.jpg
+  thumbnail: /images/lazy-cake.jpg
+  caption: "Photo from [The Cooking Foodie](https://www.thecookingfoodie.com/recipe/Lazy-Cake-Recipe)"
 tags:
   - dessert
   - american

@@ -1,9 +1,9 @@
 ---
 title: "Salmon Rub"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/salmon-rub.jpg
+  thumbnail: /images/salmon-rub.jpg
+  caption: "Photo from [The Spice Train](https://thespicetrain.com/salmon-dry-rub/)"
 tags:
   - rub
   - american

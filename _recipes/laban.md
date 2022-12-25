@@ -1,9 +1,9 @@
 ---
 title: "Laban"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/laban.jpg
+  thumbnail: /images/laban.jpg
+  caption: "Photo from [Serious Eats](https://www.seriouseats.com/guide-to-labaneh-labne-5225594)"
 tags:
   - sides
   - lebanese

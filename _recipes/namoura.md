@@ -1,9 +1,9 @@
 ---
 title: "Namoura"
 image: 
-  path: /images/chocolate-chip-cookies.jpg
-  thumbnail: /images/chocolate-chip-cookies.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/namoura.jpg
+  thumbnail: /images/namoura.jpg
+  caption: "Photo from [The New York Times](https://cooking.nytimes.com/recipes/1018776-namoura-syrup-soaked-semolina-cake)"
 tags:
   - dessert
   - lebanese
