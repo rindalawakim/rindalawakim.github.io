@@ -4,7 +4,7 @@
   url: /
 - title: Recipes
   url: /recipes/
-- title: Tags
-  url: /tags/
+# - title: Tags
+#   url: /tags/
 - title: Search
   url: /search/
